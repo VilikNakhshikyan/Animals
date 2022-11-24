@@ -1,0 +1,3 @@
+default patrametr for ctor
+&& - call {cout}
+int A::a = 1;(static)
